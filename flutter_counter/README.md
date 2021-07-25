@@ -8,8 +8,9 @@
 * [demo in mobile 20](https://code.connected.bmw/mobile20/mobile-connected/blob/master/feature_modules/notification_center/lib/src/notification_header_cn/notification_animated_dot_cn.dart)
 
 
-## Animation System Class UML in Flutter(http://assets.processon.com/chart_image/60618fea5653bb2225f809d8.png)
+## Animation System Class UML in Flutter
 ![Animation UML](http://assets.processon.com/chart_image/60618fea5653bb2225f809d8.png)
+* [refer to http://assets.processon.com/chart_image/60618fea5653bb2225f809d8.png if github can not show correct]
 
 ## Performance and Isolate
 * [Flutter/Dart中的异步编程之Isolate](https://www.psvmc.cn/article/2020-08-08-flutter-isolate.html)
