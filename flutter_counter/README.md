@@ -9,7 +9,7 @@
 
 
 ## Animation System Class UML in Flutter
-![Animation Class UML](anim.jpg)
+![Animation Class UML](img/anim.jpg)
 
 ## Performance and Isolate
 * [Flutter/Dart中的异步编程之Isolate](https://www.psvmc.cn/article/2020-08-08-flutter-isolate.html)
